@@ -1,6 +1,6 @@
 using UnityEngine;
 
-public class PlayerManager : MonoBehaviour
+public class FPSPlayerManager : MonoBehaviour
 {
     private Rigidbody rb;
     private float moveSpeed = 10f;
